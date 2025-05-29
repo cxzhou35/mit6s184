@@ -4,7 +4,7 @@ An Introduction to Flow Matching and Diffusion Models
 > *MIT Computer Science Class 6.S184: Generative AI with Stochastic Differential Equations*
 
 ![](./materials/twotrees.jpg)
-> Image credit: https://diffusionflow.github.io/
+> Image credit: https://diffusionflow.github.io
 
 - Course website: https://diffusion.csail.mit.edu
 - Lecture notes: https://note.zicx.top/course/cs/mit6s184
