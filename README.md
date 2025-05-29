@@ -4,7 +4,7 @@ An Introduction to Flow Matching and Diffusion Models
 > *MIT Computer Science Class 6.S184: Generative AI with Stochastic Differential Equations*
 
 <div align="center">
-    <img src="./materials/twotrees.jpg" alt="Two Trees" width="500">
+    <img src="./materials/twotrees.jpg" alt="Two Trees" width="100%">
     <p><em>Image credit: https://diffusionflow.github.io</em></p>
 </div>
 
